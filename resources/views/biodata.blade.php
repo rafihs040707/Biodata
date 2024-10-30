@@ -6,10 +6,10 @@
       <title>Biodata</title>
 </head>
 <body>
-<h1>Sekolah: {{$sekolah}}</h1>
-<h1>Nama: {{$nama}}</h1>
-<h1>Kelas: {{$kelas}}</h1>
-<h1>TTGL: {{$ttgl}}</h1>
-<h1>Hobi: {{$hobi}}</h1>
+<h2>Sekolah: {{$sekolah}}</h2>
+<h2>Nama: {{$nama}}</h2>
+<h2>Kelas: {{$kelas}}</h2>
+<h2>TTGL: {{$ttgl}}</h2>
+<h2>Hobi: {{$hobi}}</h2>
 </body>
 </html>
